@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jiaxinraylei.github.io/sitemap.xml
