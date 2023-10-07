@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="An example of linking directly to an external project website using `external_link`." />
+<meta name="description" content="Container networking, which provides connectivity among containers on multiple hosts, is crucial to building and scaling container-based microservices. While overlay networks are widely adopted in production systems, they cause significant performance degradation in both throughput and latency compared to physical networks. This paper seeks to understand the bottlenecks of in-kernel networking when running container overlay networks. Through profiling and code analysis, we find that a prolonged data path, due to packet transformation in overlay networks, is the culprit of performance loss. Furthermore, existing scaling techniques in the Linux network stack are ineffective for parallelizing the prolonged data path of a single network flow. We propose Falcon, a fast and balanced container networking approach to scale the packet processing pipeline in overlay networks. Falcon pipelines software interrupts associated with different network devices of a single flow on multiple cores, thereby preventing execution serialization of excessive software interrupts from overloading a single core. Falcon further supports multiple network flows by effectively multiplexing and balancing software interrupts of different flows among available cores. We have developed a prototype of Falcon in Linux. Our evaluation with both micro-benchmarks and real-world applications demonstrates the effectiveness of Falcon, with significantly improved performance (by 300% for web serving) and reduced tail latency (by 53% for data caching)." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://jiaxinraylei.github.io/project/external-project/" />
-<link rel="canonical" href="https://jiaxinraylei.github.io/project/external-project/" />
+<link rel="alternate" hreflang="en-us" href="https://jiaxinraylei.github.io/publication/falcon-eurosys-21/" />
+<link rel="canonical" href="https://jiaxinraylei.github.io/publication/falcon-eurosys-21/" />
 
 
 
@@ -304,27 +304,28 @@
 
 
   
+  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://jiaxinraylei.github.io/project/external-project/featured.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://jiaxinraylei.github.io/media/icon_hu224c5abc7792c33a932429f2cfc4b960_12907_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Home" />
-<meta property="og:url" content="https://jiaxinraylei.github.io/project/external-project/" />
-<meta property="og:title" content="External Project | Home" />
-<meta property="og:description" content="An example of linking directly to an external project website using `external_link`." /><meta property="og:image" content="https://jiaxinraylei.github.io/project/external-project/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://jiaxinraylei.github.io/publication/falcon-eurosys-21/" />
+<meta property="og:title" content="Parallelizing Packet Processing in Container Overlay Networks | Home" />
+<meta property="og:description" content="Container networking, which provides connectivity among containers on multiple hosts, is crucial to building and scaling container-based microservices. While overlay networks are widely adopted in production systems, they cause significant performance degradation in both throughput and latency compared to physical networks. This paper seeks to understand the bottlenecks of in-kernel networking when running container overlay networks. Through profiling and code analysis, we find that a prolonged data path, due to packet transformation in overlay networks, is the culprit of performance loss. Furthermore, existing scaling techniques in the Linux network stack are ineffective for parallelizing the prolonged data path of a single network flow. We propose Falcon, a fast and balanced container networking approach to scale the packet processing pipeline in overlay networks. Falcon pipelines software interrupts associated with different network devices of a single flow on multiple cores, thereby preventing execution serialization of excessive software interrupts from overloading a single core. Falcon further supports multiple network flows by effectively multiplexing and balancing software interrupts of different flows among available cores. We have developed a prototype of Falcon in Linux. Our evaluation with both micro-benchmarks and real-world applications demonstrates the effectiveness of Falcon, with significantly improved performance (by 300% for web serving) and reduced tail latency (by 53% for data caching)." /><meta property="og:image" content="https://jiaxinraylei.github.io/media/icon_hu224c5abc7792c33a932429f2cfc4b960_12907_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2016-04-27T00:00:00&#43;00:00"
+      content="2021-04-26T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-04-26T00:00:00&#43;00:00">
   
 
 
@@ -348,16 +349,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://jiaxinraylei.github.io/project/external-project/"
+    "@id": "https://jiaxinraylei.github.io/publication/falcon-eurosys-21/"
   },
-  "headline": "External Project",
+  "headline": "Parallelizing Packet Processing in Container Overlay Networks",
   
-  "image": [
-    "https://jiaxinraylei.github.io/project/external-project/featured.jpg"
-  ],
-  
-  "datePublished": "2016-04-27T00:00:00Z",
-  "dateModified": "2016-04-27T00:00:00Z",
+  "datePublished": "2021-04-26T00:00:00Z",
+  "dateModified": "2021-04-26T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -372,7 +369,7 @@
       "url": "https://jiaxinraylei.github.io/media/icon_hu224c5abc7792c33a932429f2cfc4b960_12907_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "An example of linking directly to an external project website using `external_link`."
+  "description": "Container networking, which provides connectivity among containers on multiple hosts, is crucial to building and scaling container-based microservices. While overlay networks are widely adopted in production systems, they cause significant performance degradation in both throughput and latency compared to physical networks. This paper seeks to understand the bottlenecks of in-kernel networking when running container overlay networks. Through profiling and code analysis, we find that a prolonged data path, due to packet transformation in overlay networks, is the culprit of performance loss. Furthermore, existing scaling techniques in the Linux network stack are ineffective for parallelizing the prolonged data path of a single network flow. We propose Falcon, a fast and balanced container networking approach to scale the packet processing pipeline in overlay networks. Falcon pipelines software interrupts associated with different network devices of a single flow on multiple cores, thereby preventing execution serialization of excessive software interrupts from overloading a single core. Falcon further supports multiple network flows by effectively multiplexing and balancing software interrupts of different flows among available cores. We have developed a prototype of Falcon in Linux. Our evaluation with both micro-benchmarks and real-world applications demonstrates the effectiveness of Falcon, with significantly improved performance (by 300% for web serving) and reduced tail latency (by 53% for data caching)."
 }
 </script>
 
@@ -394,7 +391,7 @@
 
 
   
-  <title>External Project | Home</title>
+  <title>Parallelizing Packet Processing in Container Overlay Networks | Home</title>
 
   
   
@@ -414,7 +411,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="d1311ddf745551c9e117aa4bb7e28516" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="9732e7206ee3c2db960f8cfd711a641c" >
 
   
   
@@ -725,7 +722,16 @@
     
     
 
-    <article class="article article-project">
+    
+
+
+  
+    
+    
+  
+
+
+<div class="pub">
 
   
 
@@ -741,29 +747,36 @@
 
 
 
-
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
-  <h1>External Project</h1>
+  <h1>Parallelizing Packet Processing in Container Overlay Networks</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
 
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Jiaxin Lei</span>, <span >
+      Manish Munikar</span>, <span >
+      Kun Suo</span>, <span >
+      Hui Lu</span>, <span >
+      Jia Rao</span>
+  </div>
   
   
 
@@ -773,7 +786,7 @@
     
       
     
-    Apr 27, 2016
+    April, 2021
   </span>
   
 
@@ -791,15 +804,13 @@
 
 </div>
 
-  
+    
 
 
 
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="https://example.org" target="_blank" rel="noopener">Go to Project Site</a>
-  
   
 
 
@@ -812,6 +823,10 @@
   
 
 
+
+<a class="btn btn-outline-primary btn-page-header" href="/publication/falcon-eurosys-21/falcon-eurosys-21.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -832,35 +847,60 @@
 </div>
 
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 405px;">
-  <div style="position: relative">
-    <img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_720x2500_fit_q75_h2_lanczos.webp" width="720" height="405" alt="" class="featured-image">
-    <span class="article-header-caption">Photo by Toa Heftiba on Unsplash</span>
-  </div>
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Container networking, which provides connectivity among containers on multiple hosts, is crucial to building and scaling container-based microservices. While overlay networks are widely adopted in production systems, they cause significant performance degradation in both throughput and latency compared to physical networks. This paper seeks to understand the bottlenecks of in-kernel networking when running container overlay networks. Through profiling and code analysis, we find that a prolonged data path, due to packet transformation in overlay networks, is the culprit of performance loss. Furthermore, existing scaling techniques in the Linux network stack are ineffective for parallelizing the prolonged data path of a single network flow. We propose Falcon, a fast and balanced container networking approach to scale the packet processing pipeline in overlay networks. Falcon pipelines software interrupts associated with different network devices of a single flow on multiple cores, thereby preventing execution serialization of excessive software interrupts from overloading a single core. Falcon further supports multiple network flows by effectively multiplexing and balancing software interrupts of different flows among available cores. We have developed a prototype of Falcon in Linux. Our evaluation with both micro-benchmarks and real-world applications demonstrates the effectiveness of Falcon, with significantly improved performance (by 300% for web serving) and reduced tail latency (by 53% for data caching).</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#paper-conference">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">ACM European Conference on Computer Systems (<strong><em>EuroSys&rsquo; 21</em></strong>), Virtual</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/demo/">Demo</a>
-  
-</div>
 
 
 
@@ -879,7 +919,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjiaxinraylei.github.io%2Fproject%2Fexternal-project%2F&amp;text=External&#43;Project" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjiaxinraylei.github.io%2Fpublication%2Ffalcon-eurosys-21%2F&amp;text=Parallelizing&#43;Packet&#43;Processing&#43;in&#43;Container&#43;Overlay&#43;Networks" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -896,7 +936,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjiaxinraylei.github.io%2Fproject%2Fexternal-project%2F&amp;t=External&#43;Project" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjiaxinraylei.github.io%2Fpublication%2Ffalcon-eurosys-21%2F&amp;t=Parallelizing&#43;Packet&#43;Processing&#43;in&#43;Container&#43;Overlay&#43;Networks" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -915,7 +955,7 @@
         
       
       <li>
-        <a href="mailto:?subject=External%20Project&amp;body=https%3A%2F%2Fjiaxinraylei.github.io%2Fproject%2Fexternal-project%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Parallelizing%20Packet%20Processing%20in%20Container%20Overlay%20Networks&amp;body=https%3A%2F%2Fjiaxinraylei.github.io%2Fpublication%2Ffalcon-eurosys-21%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -932,7 +972,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjiaxinraylei.github.io%2Fproject%2Fexternal-project%2F&amp;title=External&#43;Project" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjiaxinraylei.github.io%2Fpublication%2Ffalcon-eurosys-21%2F&amp;title=Parallelizing&#43;Packet&#43;Processing&#43;in&#43;Container&#43;Overlay&#43;Networks" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -949,7 +989,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=External&#43;Project%20https%3A%2F%2Fjiaxinraylei.github.io%2Fproject%2Fexternal-project%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Parallelizing&#43;Packet&#43;Processing&#43;in&#43;Container&#43;Overlay&#43;Networks%20https%3A%2F%2Fjiaxinraylei.github.io%2Fpublication%2Ffalcon-eurosys-21%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -966,7 +1006,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fjiaxinraylei.github.io%2Fproject%2Fexternal-project%2F&amp;title=External&#43;Project" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fjiaxinraylei.github.io%2Fpublication%2Ffalcon-eurosys-21%2F&amp;title=Parallelizing&#43;Packet&#43;Processing&#43;in&#43;Container&#43;Overlay&#43;Networks" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -986,6 +1026,7 @@
 
   
   
+    
 
 
 
@@ -1061,6 +1102,31 @@
   </div>
 
 
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -1077,24 +1143,8 @@
 
 
 
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-    </div>
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">

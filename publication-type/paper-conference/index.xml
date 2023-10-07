@@ -5,12 +5,52 @@
     <link>https://jiaxinraylei.github.io/publication-type/paper-conference/</link>
       <atom:link href="https://jiaxinraylei.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>paper-conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiaxinraylei.github.io/media/icon_hu224c5abc7792c33a932429f2cfc4b960_12907_512x512_fill_lanczos_center_3.png</url>
       <title>paper-conference</title>
       <link>https://jiaxinraylei.github.io/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>mFlow: Accelerating Packet Processing in Container Overlay Networks via Packet-level Prallelism</title>
+      <link>https://jiaxinraylei.github.io/publication/mflow-ipdps-23/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiaxinraylei.github.io/publication/mflow-ipdps-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRISM: Streamlined Packet Processing for Containers with Flow Prioritization</title>
+      <link>https://jiaxinraylei.github.io/publication/prism-icdcs-22/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiaxinraylei.github.io/publication/prism-icdcs-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallelizing Packet Processing in Container Overlay Networks</title>
+      <link>https://jiaxinraylei.github.io/publication/falcon-eurosys-21/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiaxinraylei.github.io/publication/falcon-eurosys-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BAOVERLAY: A Block-Accessible Overlay File System for Fast and Efficient Container Storage</title>
+      <link>https://jiaxinraylei.github.io/publication/baoverlay-socc-20/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiaxinraylei.github.io/publication/baoverlay-socc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling Parallelization Challenges of Kernel Network Stack for Container Overlay Networks</title>
+      <link>https://jiaxinraylei.github.io/publication/overlay-hotcloud-19/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiaxinraylei.github.io/publication/overlay-hotcloud-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
