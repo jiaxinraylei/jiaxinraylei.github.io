@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3419111.3421291,
+author = {Sun, Yu and Lei, Jiaxin and Shin, Seunghee and Lu, Hui},
+title = {Baoverlay: A Block-Accessible Overlay File System for Fast and Efficient Container Storage},
+year = {2020},
+isbn = {9781450381376},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3419111.3421291},
+doi = {10.1145/3419111.3421291},
+abstract = {Container storage commonly relies on overlay file systems to interpose read-only container images upon backing file systems. While being transparent to and compatible with most existing backing file systems, the overlay file-system approach imposes nontrivial I/O overhead to containerized applications, especially for writes: To write a file originating from a read-only container image, the whole file will be copied to a separate, writable storage layer, resulting in long write latency and inefficient use of container storage. In this paper, we present BAOverlay, a lightweight, block-accessible overlay file system: Equipped with a new block-accessibility attribute, BAOverlay not only exploits the benefit of using an asynchronous copy-on-write mechanism for fast file updates but also enables a new file format for efficient use of container storage space. We have developed a prototype of BAOverlay upon Linux Ext4. Our evaluation with both micro-benchmarks and real-world applications demonstrates the effectiveness of BAOverlay with improved write performance and on-demand container storage usage.},
+booktitle = {Proceedings of the 11th ACM Symposium on Cloud Computing},
+pages = {90–104},
+numpages = {15},
+keywords = {containers, virtualization, overlay file systems},
+location = {Virtual Event, USA},
+series = {SoCC '20}
+}
