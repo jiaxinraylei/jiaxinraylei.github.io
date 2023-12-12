@@ -5,12 +5,28 @@
     <link>https://jiaxinraylei.github.io/publication/</link>
       <atom:link href="https://jiaxinraylei.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiaxinraylei.github.io/media/icon_hudce1344bbdf5a055c90bdcf7e013b63b_17775_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jiaxinraylei.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>SmartNIC-based Network Packet Zero-Copying</title>
+      <link>https://jiaxinraylei.github.io/publication/zerocopy-23/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiaxinraylei.github.io/publication/zerocopy-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECON: Expedited Container Overlay Network</title>
+      <link>https://jiaxinraylei.github.io/publication/econ-23/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiaxinraylei.github.io/publication/econ-23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mFlow: Accelerating Packet Processing in Container Overlay Networks via Packet-level Prallelism</title>
@@ -50,25 +66,6 @@
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://jiaxinraylei.github.io/publication/overlay-hotcloud-19/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://jiaxinraylei.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://jiaxinraylei.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
