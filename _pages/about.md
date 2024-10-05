@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am an Assistant Professor in the Department of Computer Science and Technology at Kean University. 
+I am an Assistant Professor in the Department of <a href='https://www.kean.edu/academics/programs/computer-science'>Computer Science and Technology</a> at <a href='https://www.kean.edu/'>Kean University</a>. 
 
 Previously, I completed my Ph.D. at the University of Texas at Arlington (UTA), where I conducted research with Prof. <a href='https://huilucs.github.io'>Hui Lu</a>. I received my M.S. from the State University of New York (SUNY) at Binghamton, and obtained my B.E. from Beijing University of Posts and Telecommunications (BUPT).
 
