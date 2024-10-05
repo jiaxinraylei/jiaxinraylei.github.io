@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiaxin Lei"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpeg"
   bio              : "Assistant Professor"
   location         :
   employer         : "Kean University"
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "cv"
 
 
 # Reading Files
@@ -136,7 +137,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
