@@ -33,19 +33,23 @@ My research focuses on building efficient and scalable cloud-based networking sy
 <span class='anchor' id='publications'></span>
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPDPS</div><img src='images/pubs/ipdps23_cut.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[mFlow: Accelerating Packet Processing in Container Overlay Networks via Packet-level Prallelism](docs/Lei_CV_long_Academia.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**<font color=black>Jiaxin Lei</font>**, Manish Munikar, Hui Lu, Jia Rao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023
+
+[**[Paper]**](docs/Lei_CV_long_Academia.pdf)
+[**[BibTex]**](https://scholar.googleusercontent.com/scholar.bib?q=info:v5J02p1TxgQJ:scholar.google.com/&output=citation&scisdr=ClEzFO0BEIyBvYwb8nU:AFWwaeYAAAAAZwAd6nW1Qu_XDUh7Ig2pbsohUns&scisig=AFWwaeYAAAAAZwAd6njiNILXEZkejjDw-aHSmjc&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
 </div>
 
+<!-->
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 <span class='anchor' id='teaching'></span>
 # Teaching
