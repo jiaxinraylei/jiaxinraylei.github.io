@@ -1,0 +1,6 @@
+@article{lei2021parallelizing,
+  title={Parallelizing packet processing in container overlay networks},
+  author={Lei, Jiaxin and Munikar, Manish and Suo, Kun and Lu, Hui and Rao, Jia},
+  journal={EuroSys 2021},
+  year={2021}
+}

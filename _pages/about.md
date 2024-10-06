@@ -36,14 +36,70 @@ My research focuses on building efficient and scalable cloud-based networking sy
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPDPS</div><img src='images/pubs/ipdps23_cut.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[mFlow: Accelerating Packet Processing in Container Overlay Networks via Packet-level Prallelism](assets/pubs/Lei_CV_Long_Academia.pdf)
+[MFlow: Accelerating Packet Processing in Container Overlay Networks via Packet-level Prallelism](assets/pubs/ipdps23.pdf)
 
 **<font color=black>Jiaxin Lei</font>**, Manish Munikar, Hui Lu, Jia Rao
 
 IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023
 
-[**[Paper]**](https://jiaxinraylei.github.io/assets/pubs/Lei_CV_Long_Academia.pdf)
-[**[BibTex]**](https://scholar.googleusercontent.com/scholar.bib?q=info:v5J02p1TxgQJ:scholar.google.com/&output=citation&scisdr=ClEzFO0BEIyBvYwb8nU:AFWwaeYAAAAAZwAd6nW1Qu_XDUh7Ig2pbsohUns&scisig=AFWwaeYAAAAAZwAd6njiNILXEZkejjDw-aHSmjc&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+[**[Paper]**](assets/pubs/ipdps23.pdf)
+[**[BibTex]**](assets/pubs/ipdps23_bib.txt) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS</div><img src='images/pubs/icdcs22_cut.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PRISM: Streamlined Packet Processing for Containers with Flow Prioritization](assets/pubs/icdcs22.pdf)
+
+Manish Munikar, **<font color=black>Jiaxin Lei</font>**, Hui Lu, Jia Rao
+
+IEEE International Conference on Distributed Computing Systems (ICDCS), 2022
+
+[**[Paper]**](assets/pubs/icdcs22.pdf)
+[**[BibTex]**](assets/pubs/icdcs22_bib.txt) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroSys</div><img src='images/pubs/eurosys21_cut.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parallelizing Packet Processing in Container Overlay Networks](assets/pubs/eurosys21.pdf)
+
+**<font color=black>Jiaxin Lei</font>**, Manish Munikar, Kun Suo, Hui Lu, Jia Rao
+
+ACM European Conference on Computer Systems (EuroSys), 2021
+
+[**[Paper]**](assets/pubs/eurosys21.pdf)
+[**[BibTex]**](assets/pubs/eurosys21_bib.txt) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SoCC</div><img src='images/pubs/socc20_cut.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BAOVERLAY: A Block-Accessible Overlay File System for Fast and Efficient Container Storage](assets/pubs/socc20.pdf)
+
+Yu Sun, **<font color=black>Jiaxin Lei</font>**, Seunghee Shin, Hui Lu
+
+ACM Symposium on Cloud Computing (SoCC), 2020
+
+[**[Paper]**](assets/pubs/socc20.pdf)
+[**[BibTex]**](assets/pubs/socc20_bib.txt) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HotCloud</div><img src='images/pubs/hotcloud19_cut.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tackling Parallelization Challenges of Kernel Network Stack for Container Overlay Networks](assets/pubs/hotcloud19.pdf)
+
+**<font color=black>Jiaxin Lei</font>**, Kun Suo, Hui Lu, Jia Rao
+
+USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2019
+
+[**[Paper]**](assets/pubs/hotcloud19.pdf)
+[**[BibTex]**](assets/pubs/hotcloud19_bib.txt) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
 </div>
 

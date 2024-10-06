@@ -1,0 +1,6 @@
+@inproceedings{sun2020baoverlay,
+  title={Baoverlay: a block-accessible overlay file system for fast and efficient container storage},
+  author={Sun, Yu and Lei, Jiaxin and Shin, Seunghee and Lu, Hui},
+  booktitle={Proceedings of the 11th ACM Symposium on Cloud Computing (SoCC 2020)},
+  year={2020}
+}

@@ -1,0 +1,6 @@
+@inproceedings{lei2019tackling,
+  title={Tackling parallelization challenges of kernel network stack for container overlay networks},
+  author={Lei, Jiaxin and Suo, Kun and Lu, Hui and Rao, Jia},
+  booktitle={11th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 19)},
+  year={2019}
+}
