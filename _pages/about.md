@@ -43,6 +43,10 @@ My research focuses on building efficient and scalable cloud-based networking sy
 IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023
 
 [**[Paper]**](https://jiaxinraylei.github.io/docs/Lei_CV_Long_Academia.pdf)
+[**[Paper2]**](https://jiaxinraylei.github.io/_data/pubs/Lei_CV_Long_Academia.pdf)
+[**[Paper3]**](https://jiaxinraylei.github.io/_includes/pubs/Lei_CV_Long_Academia.pdf)
+[**[Paper4]**](https://jiaxinraylei.github.io/assets/pubs/Lei_CV_Long_Academia.pdf)
+[**[Paper5]**](https://jiaxinraylei.github.io/images/pubs/Lei_CV_Long_Academia.pdf)
 [**[BibTex]**](https://scholar.googleusercontent.com/scholar.bib?q=info:v5J02p1TxgQJ:scholar.google.com/&output=citation&scisdr=ClEzFO0BEIyBvYwb8nU:AFWwaeYAAAAAZwAd6nW1Qu_XDUh7Ig2pbsohUns&scisig=AFWwaeYAAAAAZwAd6njiNILXEZkejjDw-aHSmjc&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1) <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 </div>
 </div>
