@@ -58,12 +58,14 @@
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
+            margin-left: 1.1em;
             object-fit: cover;
         }
     }
     
     .paper-box-text{
         max-width: 100%;
+        margin-left: -3em;
         order: 1;
     }
     
@@ -102,7 +104,8 @@ h1:before, .anchor:before {
     padding-right: 1rem;
     position: absolute;
     margin-top: .5em;
-    margin-left: -.5em;
+    margin-left: 1em;
+//    margin-left: -.5em;
     color: white;
     background-color: #00369f;
     font-size: .8em;

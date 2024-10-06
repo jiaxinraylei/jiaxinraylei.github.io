@@ -119,7 +119,7 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.cv %}
-        <li><a href="https://jiaxinraylei.github.io/assets/pubs/Lei_CV_Long_Academia.pdf"><i class="fas fa-fw fa-file"></i> CV</a></li>
+        <li><a href="assets/pubs/Lei_CV_Long_Academia.pdf"><i class="fas fa-fw fa-file"></i> CV</a></li>
       {% endif %}
     </ul>
       <div class="author__urls_sm">
@@ -127,7 +127,7 @@
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+        <i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
@@ -145,7 +145,7 @@
         <a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.linkedin %}
-        <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.dblp %}
         <a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i></a>
@@ -215,6 +215,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.cv %}
+        <a href="assets/pubs/Lei_CV_Long_Academia.pdf"><i class="fas fa-fw fa-file"></i></a>
       {% endif %}
     </div>
   </div>
