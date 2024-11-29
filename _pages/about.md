@@ -174,4 +174,4 @@ USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2019
 
 <br>
 
-<p> &copy; Last updated on 10/31/2024 by <a href="https://jiaxinraylei.github.io" target="_blank" rel="noopener">Jiaxin Lei</a></p>
+<p> &copy; Last updated on 11/29/2024 by <a href="https://www.kean.edu/directory/jiaxin-lei-0" target="_blank" rel="noopener">Jiaxin Lei</a></p>
