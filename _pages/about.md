@@ -110,6 +110,8 @@ USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2019
 <span class='anchor' id='teaching'></span>
 # Teaching
 
+- [**2025 Spring**] CPS-4200-Systems Programming
+- [**2025 Spring**] CPS-3250-Computer Operating Systems
 - [**2024 Fall**] TECH-2920-Computer Systems
 - [**2024 Fall**] CPS-3250-Computer Operating Systems 
 
@@ -174,4 +176,4 @@ USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2019
 
 <br>
 
-<p> &copy; Last updated on 11/29/2024 by <a href="https://www.kean.edu/directory/jiaxin-lei-0" target="_blank" rel="noopener">Jiaxin Lei</a></p>
+<p> &copy; Last updated on 01/07/2025 by <a href="https://www.kean.edu/directory/jiaxin-lei-0" target="_blank" rel="noopener">Jiaxin Lei</a></p>
