@@ -110,6 +110,8 @@ USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2019
 <span class='anchor' id='teaching'></span>
 # Teaching
 
+- [**2025 Fall**] CPS-4150-Computer Architecture
+- [**2025 Fall**] CPS-3250-Computer Operating Systems
 - [**2025 Spring**] CPS-4200-Systems Programming
 - [**2025 Spring**] CPS-3250-Computer Operating Systems
 - [**2024 Fall**] TECH-2920-Computer Systems
@@ -122,6 +124,13 @@ USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2019
 - [**2022.11**] “Accelerating Packet Processing in Container Overlay Networks”, in SUNY Binghamton Computer Science Department Seminar, Binghamton, NY, USA.
 - [**2021.04**] “Parallelizing Packet Processing in Container Overlay Networks”, in EuroSys ‘21, Virtual.
 - [**2019.07**] “Tackling parallelization challenges of kernel network stack for container overlay networks”, in HotCloud ‘19, Renton, WA, USA.
+
+<span class='anchor' id='Students'></span>
+# Students
+
+**Undergraduate Students**
+- Landy Jimenez
+- Ricardo Urbaez
 
 <!--
 # 🔥 News
@@ -176,4 +185,4 @@ USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2019
 
 <br>
 
-<p> &copy; Last updated on 01/07/2025 by <a href="https://www.kean.edu/directory/jiaxin-lei-0" target="_blank" rel="noopener">Jiaxin Lei</a></p>
+<p> &copy; Last updated on 09/19/2025 by <a href="https://www.kean.edu/directory/jiaxin-lei-0" target="_blank" rel="noopener">Jiaxin Lei</a></p>
